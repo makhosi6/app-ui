@@ -1,0 +1,16 @@
+@font-face {
+        font-family: "Segoe UI";
+        src: url("./assets/fonts/SegoeUI/segoeuil.ttf") format("truetype");
+      }
+@font-face {
+        font-family: "Segoe UI Web Regular";
+        src: url("./assets/fonts/SegoeUI/segoeui.ttf") format("truetype");
+      }
+
+      ::placeholder {
+        color: rgb(197, 197, 197) !important;
+        font-style: italic !important;
+
+      }
+
+   
